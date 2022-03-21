@@ -1,0 +1,19 @@
+.header{
+    background-color: yellow;
+    height: 100%;
+}
+.main{
+    height: 600px;
+}
+.coluna_1{
+    background-color: pink;
+}
+.coluna_2{
+    background-color: brown;
+}
+.coluna_3{
+    background: pink;
+}
+.footer{
+    background-color: yellow;
+}
